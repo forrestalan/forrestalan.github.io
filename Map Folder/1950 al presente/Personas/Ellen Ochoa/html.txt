@@ -1,0 +1,5 @@
+<h3 style="text-align: center;"><strong>Dr. Ellen Ochoa</strong></h3>
+<p style="text-align: center;"><span style="font-weight: 400;">Ochoa se convirti&oacute; en la primera astronauta latina cuando vol&oacute; en el astronave Discovery en 1993. Ella ha pasado casi 1000 horas en el espacio, dividido entre cuatro misiones. Despu&eacute;s, Ochoa sirvi&oacute; como directora del Johnson Space Center desde 2013 a 2018. Ella fue la primera directora latina y solo la segunda directora mujer.</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;">Ochoa estudiaba f&iacute;sica en la universidad San Diego State y despu&eacute;s asist&iacute;a a la universidad de Stanford, donde ganaba una doctorada en ingeniero electronico. Trabajaba como ingeniera de sistemas de &oacute;pticas en el laboratorio nacional de Sandia y NASA.</span></p>
+<p style="text-align: center;"><span style="font-weight: 400;"><img src="Map Folder/1950 al presente/Personas/Ellen Ochoa/ellen.jpg" alt="" width="512" height="256" /></span></p>
+<p style="text-align: center;"><em><span style="font-weight: 400;">Ochoa durante entrenamiento en Houston, 1993</span></em></p>
