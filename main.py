@@ -54,5 +54,5 @@ for century in centuries:
 #base.get_root().html.add_child(fm.Element(settings.title_html))
 
 fm.LayerControl().add_to(base)
-base.save("Base Map.html")
+base.save("index.html")
 
